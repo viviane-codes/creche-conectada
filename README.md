@@ -3,9 +3,9 @@
 🔗 **Aplicação publicada:**  
 https://conectacrechevval.netlify.app
 
-O **Creche Conectada** é um aplicativo desenvolvido como projeto acadêmico com foco em facilitar a organização e o acompanhamento das informações de alunos em creches. Feito como PWA, ele pode ser utilizado tanto no computador quanto instalado no celular como aplicativo.
+O **Creche Conectada** é um aplicativo desenvolvido como projeto acadêmico com foco em facilitar a organização e o acompanhamento das informações de alunos em creches. Como PWA, ele funciona tanto no computador quanto pode ser instalado no celular como aplicativo.
 
----
+
 
 ## 🛠 Tecnologias utilizadas
 - HTML  
@@ -15,7 +15,7 @@ O **Creche Conectada** é um aplicativo desenvolvido como projeto acadêmico com
 - Lógica de programação  
 - Organização de dados com Excel  
 
----
+
 
 ## 📱 Funcionalidades do sistema
 - Cadastro e consulta de alunos  
@@ -31,7 +31,7 @@ O **Creche Conectada** é um aplicativo desenvolvido como projeto acadêmico com
   - Presença  
   - Capacitações  
 
----
+
 
 ## 📁 Estrutura do projeto
 Este repositório contém:
@@ -40,7 +40,7 @@ Este repositório contém:
 - Ícone do aplicativo  
 - Documento PDF utilizado no projeto acadêmico  
 
----
+
 
 ## 👩‍💻 Autora
 **Viviane Alves Rodrigues da Silva**  
